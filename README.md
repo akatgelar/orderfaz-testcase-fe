@@ -19,4 +19,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 For demo use this url
 
 * My Server [https://orderfaz-testcase-fe.akatgelar.app/](https://orderfaz-testcase-fe.akatgelar.app/)
-* Vercel [https://orderfaz-testcase-fe.vercel.app/]()
+* Vercel [https://orderfaz-testcase-fe.vercel.app/](https://orderfaz-testcase-fe.vercel.app/)
