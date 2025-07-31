@@ -10,6 +10,8 @@ const nextConfig: NextConfig = {
       pathname: "/**"
     }]
   },
+  pageExtensions: ["tsx", "ts"], 
+  output: "standalone",
 };
 
 
