@@ -1,0 +1,8 @@
+services:
+  orderfaz-testcase-fe:
+    # build: .
+    image: ghcr.io/akatgelar/orderfaz-testcase-fe:latest
+    container_name: 'orderfaz-testcase-fe'  
+    ports:
+      - "2050:3000"
+    restart: always
